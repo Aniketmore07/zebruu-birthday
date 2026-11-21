@@ -47,7 +47,7 @@ function BirthdayReveal({ onContinue }) {
       </section>
 
       <footer className="hero-footer">
-        MADE ESPECIALLY FOR CHONGEE
+        MADE ESPECIALLY FOR BATTERY
       </footer>
     </main>
   )
